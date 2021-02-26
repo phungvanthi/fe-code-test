@@ -12,7 +12,8 @@ class App extends Component {
       f: '6',
       e: '5',
       g: '7',
-      h: '7'
+      h: '7',
+      h1: 'h1'
     }
     return (
       <div className="App">
