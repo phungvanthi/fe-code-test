@@ -11,7 +11,8 @@ class App extends Component {
       c: '3',
       f: '6',
       e: '5',
-      g: '7',
+      h: '7',
+      h2: 'h2',
       h: '7',
       h1: 'h1'
     }
