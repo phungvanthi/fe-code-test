@@ -10,6 +10,7 @@ class App extends Component {
       d: '4',
       c: '3',
       e: '5',
+      g: '7',
     }
     return (
       <div className="App">
