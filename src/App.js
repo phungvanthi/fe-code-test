@@ -4,6 +4,10 @@ import './App.css';
 
 class App extends Component {
   render() {
+    const configs = {
+      a: '1',
+      b: '2',
+    }
     return (
       <div className="App">
         <header className="App-header">
